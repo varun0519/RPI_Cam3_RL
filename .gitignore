@@ -1,0 +1,73 @@
+# =========================
+# KiCad project files
+# =========================
+
+# Backup files
+*.bak
+*.bck
+*.kicad_pcb-bak
+*.sch-bak
+*.cmp-bak
+*.kicad_sch-bak
+
+# Autosave files
+_autosave-*
+*.autosave
+
+# Cache files
+*-cache.lib
+*-rescue.lib
+*-rescue.dcm
+*-rescue.kicad_sym
+*.kicad_prl
+*.kicad_pro.user
+fp-info-cache
+
+# Netlists
+*.net
+
+# Plot / fabrication outputs
+*.gbr
+*.ger
+*.gtl
+*.gbl
+*.gts
+*.gbs
+*.gto
+*.gbo
+*.gko
+*.gbrjob
+*.drl
+*.map
+*.pos
+*.rpt
+*.svg
+*.pdf
+*.ps
+*.eps
+
+# Drill and pick-and-place temp files
+*.d356
+*.csv
+*.xlsx
+
+# 3D viewer cache
+*.wrl
+*.step
+*.stp
+
+# =========================
+# KiCad 3rd-party / temp
+# =========================
+*.log
+*.tmp
+*.temp
+
+# =========================
+# OS / Editor junk
+# =========================
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
