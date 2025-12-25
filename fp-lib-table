@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "RPICAM")(type "KiCad")(uri "${KIPRJMOD}/Library/RPI_Cam3/RPICAM.pretty")(options "")(descr ""))
+)
