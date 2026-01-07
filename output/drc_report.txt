@@ -1,0 +1,14 @@
+** Drc report for RPI_Cam3_RL.kicad_pcb **
+** Created on 2026-01-07T15:42:35+0530 **
+
+** Found 1 DRC violations **
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    Rule: board setup constraints silk; warning
+    @(217.2000 mm, 78.8000 mm): Segment on Edge.Cuts
+    @(192.1254 mm, 78.8413 mm): Rectangle of U1 on F.Silkscreen
+
+** Found 0 unconnected pads **
+
+** Found 0 Footprint errors **
+
+** End of Report **

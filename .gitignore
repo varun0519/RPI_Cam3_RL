@@ -16,6 +16,7 @@
 *.ini
 *.log
 *.round-tracks-config
+*-gbr
 *~
 *.~lock*
 _autosave-*

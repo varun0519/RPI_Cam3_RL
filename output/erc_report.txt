@@ -1,0 +1,17 @@
+ERC report (2026-01-07T15:42:35+0530, Encoding UTF8)
+
+***** Sheet /
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(31.729 mm, 45.72 mm): Horizontal Wire, length 7.641 mm
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(31.729 mm, 45.72 mm): Symbol #FLG02 Pin 1 [Power output, Line]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(27.94 mm, 45.72 mm): Horizontal Wire, length 3.789 mm
+[lib_symbol_issues]: The current configuration does not include the symbol library 'Rpi_cam_3'
+    ; warning
+    @(246.38 mm, 68.58 mm): Symbol U1 [rpi_cam_module3]
+
+ ** ERC messages: 4  Errors 0  Warnings 4
