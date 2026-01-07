@@ -4,6 +4,13 @@
 	(generator_version "9.0")
 	(uuid "53c6947d-8834-4e12-a59f-ee14606a4e52")
 	(paper "A4")
+	(title_block
+		(title "RPI_CAM_RingLight")
+		(date "2026-01-07")
+		(rev "1.0.0")
+		(company "Delta Things")
+		(comment 1 "Mount for official Raspberry Pi Cameras")
+	)
 	(lib_symbols
 		(symbol "Connector:Screw_Terminal_01x03"
 			(pin_names
