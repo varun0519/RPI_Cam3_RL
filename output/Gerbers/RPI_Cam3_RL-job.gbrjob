@@ -5,13 +5,13 @@
       "Application": "Pcbnew",
       "Version": "9.0.7-9.0.7~ubuntu24.04.1"
     },
-    "CreationDate": "2026-01-07T15:42:35+05:30"
+    "CreationDate": "2026-01-08T12:22:14+05:30"
   },
   "GeneralSpecs": {
     "ProjectId": {
       "Name": "RPI_Cam3_RL",
       "GUID": "5250495f-4361-46d3-935f-524c2e6b6963",
-      "Revision": "rev?"
+      "Revision": "1.0.0"
     },
     "Size": {
       "X": 76.0537,
